@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "EasyCashIdentityProject.DtoLayer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52712;http://localhost:52713"
+    }
+  }
+}
